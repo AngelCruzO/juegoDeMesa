@@ -1,0 +1,32 @@
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.exe
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.pdb
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csprojResolveAssemblyReference.cache
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmVentanaInicio.resources
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csproj.GenerateResource.Cache
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.exe
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.pdb
+C:\Users\Ing de Software\Desktop\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmJuego.resources
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.exe
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.pdb
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csprojResolveAssemblyReference.cache
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmJuego.resources
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmVentanaInicio.resources
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csproj.GenerateResource.Cache
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.exe
+D:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.pdb
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.exe
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.pdb
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csprojResolveAssemblyReference.cache
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmJuego.resources
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmVentanaInicio.resources
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csproj.GenerateResource.Cache
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.exe
+E:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.pdb
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csprojResolveAssemblyReference.cache
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmJuego.resources
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.frmVentanaInicio.resources
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.csproj.GenerateResource.Cache
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.exe
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.exe
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\bin\Debug\prGrfSerpientesGuitarras.pdb
+F:\P.O.O\prGrfSerpientesGuitarras\prGrfSerpientesGuitarras\obj\Debug\prGrfSerpientesGuitarras.pdb
